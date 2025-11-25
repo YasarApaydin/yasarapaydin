@@ -93,6 +93,7 @@
 
 ---
 
+
 ### 🧠 Hakkımda Kısa Bilgi
 
 - 💼 Aktif olarak ASP.NET Core ile kurumsal projeler geliştiriyorum  
