@@ -72,22 +72,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri & Diller
 
-<p align="center">
-
-  <br/>
-
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasarApaydin&theme=radical" width="80%" />
-  
-  <br/>
-
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YasarApaydin&theme=radical&row=1&column=6" width="80%" />
-</p>
-
----
 
 
 ### 🧠 Hakkımda Kısa Bilgi
