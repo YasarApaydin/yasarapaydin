@@ -75,10 +75,6 @@
 ### 📊 GitHub İstatistikleri & Diller
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasarApaydin&layout=compact&langs_count=50&theme=radical" width="45%"  style="display:inline-block;" />
-   <img src="https://github-readme-stats.vercel.app/api?username=YasarApaydin&show_icons=true&theme=radical&count_private=true" width="45%" style="display:inline-block;" />
- 
 
   <br/>
 
