@@ -30,12 +30,10 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge&logo=websocket&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ---
 
 #### 💾 Veritabanı
@@ -44,6 +42,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -80,7 +79,6 @@
 - 💼 Aktif olarak ASP.NET Core ile kurumsal projeler geliştiriyorum  
 - 🧠 Mikroservis mimarisi, dağıtık sistemler ve mesajlaşma altyapıları üzerine çalışıyorum  
 - 🧪 Yazılım test süreçlerinde Postman, Swagger gibi araçları etkin kullanıyorum  
-- ⚙️ DevOps süreçlerine ilgim var; CI/CD, Docker, Kubernetes bilgim var  
 - 💡 Yeni teknolojileri öğrenmeye, katkı sunmaya ve paylaşmaya hevesliyim
 
 ---
